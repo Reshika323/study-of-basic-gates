@@ -87,13 +87,13 @@ Y= A⊕B
 
 ![Screenshot 2024-11-18 162609](https://github.com/user-attachments/assets/bda55038-c3c9-4332-87c3-e3f7c0508d03)
 
-**RTL WAVEFORM :**
+**OUTPUT :**
 
 ![Screenshot 2024-11-18 162401](https://github.com/user-attachments/assets/aa90df3e-b027-4981-97fd-1c4e5dd835a4) 
 
 **RESULT:**
 
-Studying and verifying the truth table of logic gates in Quartus II using Verilog programming.
+ Hence the truth table of logic gates in Quartus II using Verilog programming.
 
 
 
