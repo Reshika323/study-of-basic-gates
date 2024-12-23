@@ -83,7 +83,7 @@ Y= A⊕B
 
 ![WhatsApp Image 2024-11-18 at 4 15 23 PM](https://github.com/user-attachments/assets/38a8c70a-546c-41cb-968b-95ff1f8b4e86)
 
-**RTL REALIZATION OUTPUT:** 
+**RTL:** 
 
 ![Screenshot 2024-11-18 162609](https://github.com/user-attachments/assets/bda55038-c3c9-4332-87c3-e3f7c0508d03)
 
