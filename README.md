@@ -93,7 +93,7 @@ Y= A⊕B
 
 **RESULT:**
 
- Hence the truth table of logic gates in Quartus II using Verilog programming.
+ Hence the truth table of logic gates in Quartus II using Verilog programming is proved.
 
 
 
